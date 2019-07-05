@@ -1,0 +1,16 @@
+.metadata
+/metadata
+.class
+/class
+.setting
+/setting
+.classpath
+.project
+/classpath
+/project
+.bin
+/bin
+*.class
+.prefs
+/prefs
+*.prefs
